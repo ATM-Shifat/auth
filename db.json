@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "userName": "testUser",
+      "password": ".",
+      "fullName": "Test user"
+    },
+    {
+      "id": "1",
+      "userName": "testUser2",
+      "password": ".",
+      "fullName": "Abu Taher Md. Shifat"
+    },
+    {
+      "id": "66bb2503",
+      "userName": "imstuckhelpmeplease",
+      "password": ".",
+      "fullName": "Abu Taher Md. Shifat"
+    }
+  ],
+  "posts": [
+    {
+      "id": "66bb565c",
+      "title": "Alias accusantium el",
+      "content": "Tempora id ad repreh",
+      "author": "testUser"
+    },
+    {
+      "id": "66bb5659",
+      "title": "Est libero totam pr",
+      "content": "Eum tempora adipisci",
+      "author": "testUser"
+    },
+    {
+      "id": "66bb5656",
+      "title": "Nostrum ad commodo e",
+      "content": "Ut Nam esse quibusda",
+      "author": "testUser"
+    },
+    {
+      "id": "66bb55fd",
+      "title": "Voluptatum et blandi",
+      "content": "Pariatur Ut amet l",
+      "author": "testUser"
+    },
+    {
+      "id": "66bb55f7",
+      "title": "Accusamus sit sit r",
+      "content": "Ducimus tempore en",
+      "author": "testUser"
+    },
+    {
+      "id": "66bb54ab",
+      "title": "Asperiores laudantiu",
+      "content": "Accusantium deserunt",
+      "author": "testUser2"
+    },
+    {
+      "id": "66bb49bb",
+      "title": "Laboriosam esse mo",
+      "content": "Omnis necessitatibus",
+      "author": "imstuckhelpmeplease"
+    },
+    {
+      "id": "66bb49b6",
+      "title": "Laudantium assumend",
+      "content": "Nihil itaque dolorum",
+      "author": "imstuckhelpmeplease"
+    },
+    {
+      "id": "66bb1712",
+      "title": "test post from chrome",
+      "content": "This post has been written in chrome\n",
+      "author": "testUser2"
+    }
+  ]
+}
